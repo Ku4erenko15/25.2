@@ -1,0 +1,7 @@
+D:\проекты\25.3\bin\Debug\25.3.exe.config
+D:\проекты\25.3\bin\Debug\25.3.exe
+D:\проекты\25.3\bin\Debug\25.3.pdb
+D:\проекты\25.3\obj\Debug\25.3.csproj.AssemblyReference.cache
+D:\проекты\25.3\obj\Debug\25.3.csproj.CoreCompileInputs.cache
+D:\проекты\25.3\obj\Debug\25.3.exe
+D:\проекты\25.3\obj\Debug\25.3.pdb
